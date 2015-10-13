@@ -5,7 +5,7 @@
   "main": "bower",
   "license": "MIT",
   "homepage": "",
-   ignore: [
+  "ignore": [
     'test'
   ]
 }
