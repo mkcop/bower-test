@@ -6,6 +6,6 @@
   "license": "MIT",
   "homepage": "",
   "ignore": [
-    'test'
+    "test"
   ]
 }
