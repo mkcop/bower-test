@@ -4,5 +4,11 @@
   "description": "test bower file",
   "main": "bower",
   "license": "MIT",
-  "homepage": ""
+  "homepage": "",
+   ignore: [
+    'node_modules',
+    'bower_components',
+    'test',
+    'tests'
+  ]
 }
