@@ -1,0 +1,19 @@
+{
+  "name": "mkhullar",
+  "version": "0.0.1",
+  "description": "test bower file",
+  "main": "bower",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
